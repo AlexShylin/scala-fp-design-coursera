@@ -1,0 +1,699 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -Xplugin:/home/ashylin/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-compiler_2.11.6/0.6.11/scalajs-compiler_2.11.6-0.6.11.jar
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+74 items
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$computeValues$1$$anonfun$apply$3$$anonfun$apply$1.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$computeValues$1$$anonfun$apply$3$$anonfun$apply$2.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$computeValues$1$$anonfun$apply$3.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$computeValues$1.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$eval$1.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$getReferenceExpr$1.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$getReferenceExpr$2.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$main$1.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$main$2.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Divide$.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Divide.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Expr.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Literal$.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Literal.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Minus$.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Minus.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Plus$.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Plus.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Ref$.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Ref.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Times$.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Times.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Polynomial$$anonfun$computeDelta$1.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Polynomial$$anonfun$computeSolutions$1$$anonfun$apply$1.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Polynomial$$anonfun$computeSolutions$1$$anonfun$apply$2.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Polynomial$$anonfun$computeSolutions$1.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Polynomial$.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Polynomial.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/NoSignal$$anonfun$$lessinit$greater$1.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/NoSignal$.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/NoSignal.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$$anonfun$1.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$$anonfun$apply$1.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$$anonfun$apply$2.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$$anonfun$apply$3.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$$anonfun$computeValue$1.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$$anonfun$computeValue$2.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Signal.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Var$.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Var.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/TweetLength$$anonfun$1.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/TweetLength$$anonfun$calculator$TweetLength$$tweetLength$1.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/TweetLength$$anonfun$colorForRemainingCharsCount$1.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/TweetLength$.class
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/TweetLength.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$1.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$2$$anonfun$apply$2.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$2.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$3.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$4.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$5.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$6.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$7.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$8.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$9.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$doubleValueOfInput$1.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$exprOfInput$1.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$inputValueSignal$1.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$parseSimple$1$1.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setup2ndOrderPolynomial$1.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setup2ndOrderPolynomial$2.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupCalculator$1.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$2.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupCalculator$2.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupTweetMeasurer$1.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupTweetMeasurer$2.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$textAreaValueSignal$1.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$.class
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI.class
+binary dependencies:
+12 items
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.6/scala-library-2.11.6.jar
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /usr/lib/jvm/oracle_jdk8/jre/lib/rt.jar
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> /home/ashylin/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.6/scala-library-2.11.6.jar
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> /usr/lib/jvm/oracle_jdk8/jre/lib/rt.jar
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> /home/ashylin/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.6/scala-library-2.11.6.jar
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> /usr/lib/jvm/oracle_jdk8/jre/lib/rt.jar
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> /home/ashylin/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.6/scala-library-2.11.6.jar
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> /usr/lib/jvm/oracle_jdk8/jre/lib/rt.jar
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-dom_sjs0.6_2.11/0.8.0/scalajs-dom_sjs0.6_2.11-0.8.0.jar
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-library_2.11/0.6.11/scalajs-library_2.11-0.6.11.jar
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.6/scala-library-2.11.6.jar
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /usr/lib/jvm/oracle_jdk8/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+7 items
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> /home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> /home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+74 items
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator$
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator$$anonfun$computeValues$1
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator$$anonfun$computeValues$1$$anonfun$apply$3
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator$$anonfun$computeValues$1$$anonfun$apply$3$$anonfun$apply$1
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator$$anonfun$computeValues$1$$anonfun$apply$3$$anonfun$apply$2
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator$$anonfun$eval$1
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator$$anonfun$getReferenceExpr$1
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator$$anonfun$getReferenceExpr$2
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator$$anonfun$main$1
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator$$anonfun$main$2
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Divide
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Divide$
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Expr
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Literal
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Literal$
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Minus
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Minus$
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Plus
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Plus$
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Ref
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Ref$
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Times
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Times$
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> calculator.Polynomial
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> calculator.Polynomial$
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> calculator.Polynomial$$anonfun$computeDelta$1
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> calculator.Polynomial$$anonfun$computeSolutions$1
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> calculator.Polynomial$$anonfun$computeSolutions$1$$anonfun$apply$1
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> calculator.Polynomial$$anonfun$computeSolutions$1$$anonfun$apply$2
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> calculator.NoSignal
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> calculator.NoSignal$
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> calculator.NoSignal$$anonfun$$lessinit$greater$1
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> calculator.Signal
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> calculator.Signal$
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> calculator.Signal$$anonfun$1
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> calculator.Signal$$anonfun$apply$1
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> calculator.Signal$$anonfun$apply$2
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> calculator.Signal$$anonfun$apply$3
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> calculator.Signal$$anonfun$computeValue$1
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> calculator.Signal$$anonfun$computeValue$2
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> calculator.Var
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> calculator.Var$
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> calculator.TweetLength
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> calculator.TweetLength$
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> calculator.TweetLength$$anonfun$1
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> calculator.TweetLength$$anonfun$calculator$TweetLength$$tweetLength$1
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> calculator.TweetLength$$anonfun$colorForRemainingCharsCount$1
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$1
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$2
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$2$$anonfun$apply$2
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$3
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$4
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$5
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$6
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$7
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$8
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$9
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$doubleValueOfInput$1
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$exprOfInput$1
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$inputValueSignal$1
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$parseSimple$1$1
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setup2ndOrderPolynomial$1
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setup2ndOrderPolynomial$2
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupCalculator$1
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupCalculator$2
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$2
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupTweetMeasurer$1
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupTweetMeasurer$2
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$textAreaValueSignal$1
+used names:
+351 items
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> !=
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> $conforms
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> &&
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> *
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> +
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> -
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> ->
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> /
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> <init>
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> ==
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> AbstractFunction1
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> AbstractFunction2
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> AnyRef
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> Array
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> Calculator
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> Divide
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> Double
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> Expr
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> IllegalArgumentException
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> Iterable
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> Literal
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> Map
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> Minus
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> None
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> Option
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> Plus
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> Predef
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> Product
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> Ref
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> ScalaRunTime
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> Serializable
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> Signal
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> Statics
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> String
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> Times
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> Unit
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> _1
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> _hashCode
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> _toString
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> a
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> apply
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> asInstanceOf
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> b
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> calculator
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> canBuildFrom
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> collection
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> computeValues
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> doubleHash
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> eq
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> eval
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> expr
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> exprSignal
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> filter
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> finalizeHash
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> flatMap
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> fold
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> get
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> getReferenceExpr
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> isInstanceOf
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> key
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> keys
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> map
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> mix
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> name
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> namedExpressions
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> ne
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> option2Iterable
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> package
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> references
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> runtime
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> scala
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> toMap
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> toString
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> typedProductIterator
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> v
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> value
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> ||
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> *
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> +
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> -
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> /
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> <
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> <init>
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> AnyRef
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> Double
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> Function2
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> Math
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> Polynomial
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> Predef
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> Set
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> Signal
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> _root_
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> a
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> apply
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> b
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> bVal
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> c
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> calculator
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> compute
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> delta
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> java
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> lang
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> op
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> pow
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> scala
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> sqrt
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> unary_-
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> +
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> -
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> ::
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> <byname>
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> <init>
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> ==
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> >
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> ???
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> AnyRef
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> DynamicVariable
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> Function0
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> IllegalArgumentException
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> List
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> Nil
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> NoSignal
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> Nothing
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> Predef
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> Set
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> Signal
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> T
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> Unit
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> Var
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> _root_
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> apply
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> assert
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> calculator
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> caller
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> canBuildFrom
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> computeValue
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> contains
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> count
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> expr
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> flatMap
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> foreach
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> immutable
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> myExpr
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> myExpr_=
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> myValue
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> myValue_=
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> newValue
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> obs
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> observed
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> observed_=
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> observers
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> observers_=
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> package
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> scala
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> sig
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> unary_!
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> update
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> util
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> value
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> withValue
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> -
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> <init>
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> >=
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> AnyRef
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> Character
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> Int
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> Predef
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> Signal
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> String
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> TweetLength
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> apply
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> augmentString
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> calculator
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> count
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> fallbackStringCanBuildFrom
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> init
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> isEmpty
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> isSurrogatePair
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> java
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> lang
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> length
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> remainingCharsCount
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> scala
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> tail
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> text
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> tupled
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> tweetLength
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> tweetText
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> wrapString
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> zip
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> !=
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> $conforms
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> &&
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> +
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> <=
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> <init>
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> ==
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> >=
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> A
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Any
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Array
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Calculator
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> CalculatorUI
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> ClassTag
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> ClearCssClassRegExp
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Double
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Element
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Event
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Expr
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Function0
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> IllegalArgumentException
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> IndexedSeq
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Input
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> JSApp
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> JSStringOps
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> List
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> None
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> NumberFormatException
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Option
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Polynomial
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Predef
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> RegExp
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> SetTimeoutHandle
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Signal
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Span
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> String
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> StringContext
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> TextArea
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Throwable
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> TweetLength
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Unit
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Var
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> _1
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> _2
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> _3
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> _root_
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> a
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> aText
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> addEventListener
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> apply
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> asInstanceOf
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> assert
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> augmentString
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> b
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> bText
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> backgroundColor_=
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> c
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> canBuildFrom
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> className
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> className_=
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> clearTimeout
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> color
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> colorForRemainingCharsCount
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> color_=
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> computeDelta
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> computeSolutions
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> computeValues
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> dehighlightTimeout
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> delta
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> deltaArea
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> document
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> dom
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> doubleValueOfInput
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> doubleValues
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> element
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> elementById
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> elementValueSignal
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> enableJSStringOps
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> exprOfInput
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> exprs
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> filter
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> forall
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> foreach
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> fromFunction1
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> get
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> getElementById
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> getValue
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> html
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> i
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> id
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> ids
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> immutable
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> input
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> inputValueSignal
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> inputs
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> intWrapper
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> isEmpty
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> js
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> jsReplace
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> keySet
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> l
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> lengthCompare
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> map
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> materializeClassTag
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> name
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> namedExpressions
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> namedValues
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> names
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> ne
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> newVal
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> onChange
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> op
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> org
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> package
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> parent
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> parentElement
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> parseExpr
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> parseSimple
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> prevVal
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> printStackTrace
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> raw
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> refArrayOps
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> remainingCharsArea
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> remainingCount
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> s
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> scala
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> scalajs
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> setTimeout
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> setup2ndOrderPolynomial
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> setupCalculator
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> setupTweetMeasurer
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> solutions
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> solutionsArea
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> span
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> split
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> style
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> text
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> textArea
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> textAreaID
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> textAreaValueSignal
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> textContent_=
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> th
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> timers
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> toChar
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> toDouble
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> toMap
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> toString
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> trim
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> tweetRemainingCharsCount
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> tweetText
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> unapplySeq
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> unary_!
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> unchecked
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> until
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> update
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> value
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> valueSignal
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> withFilter
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> x
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> zip
+product stamps:
+74 items
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$computeValues$1$$anonfun$apply$3$$anonfun$apply$1.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$computeValues$1$$anonfun$apply$3$$anonfun$apply$2.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$computeValues$1$$anonfun$apply$3.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$computeValues$1.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$eval$1.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$getReferenceExpr$1.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$getReferenceExpr$2.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$main$1.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$main$2.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$1.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$2$$anonfun$apply$2.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$2.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$3.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$4.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$5.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$6.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$7.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$8.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$9.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$doubleValueOfInput$1.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$exprOfInput$1.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$inputValueSignal$1.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$parseSimple$1$1.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setup2ndOrderPolynomial$1.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setup2ndOrderPolynomial$2.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupCalculator$1.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$2.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupCalculator$2.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupTweetMeasurer$1.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupTweetMeasurer$2.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$textAreaValueSignal$1.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Divide$.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Divide.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Expr.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Literal$.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Literal.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Minus$.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Minus.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/NoSignal$$anonfun$$lessinit$greater$1.class -> lastModified(1511433344000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/NoSignal$.class -> lastModified(1511433344000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/NoSignal.class -> lastModified(1511433344000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Plus$.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Plus.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Polynomial$$anonfun$computeDelta$1.class -> lastModified(1511363067000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Polynomial$$anonfun$computeSolutions$1$$anonfun$apply$1.class -> lastModified(1511363067000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Polynomial$$anonfun$computeSolutions$1$$anonfun$apply$2.class -> lastModified(1511363067000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Polynomial$$anonfun$computeSolutions$1.class -> lastModified(1511363067000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Polynomial$.class -> lastModified(1511363067000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Polynomial.class -> lastModified(1511363067000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Ref$.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Ref.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$$anonfun$1.class -> lastModified(1511433345000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$$anonfun$apply$1.class -> lastModified(1511433345000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$$anonfun$apply$2.class -> lastModified(1511433345000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$$anonfun$apply$3.class -> lastModified(1511433345000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$$anonfun$computeValue$1.class -> lastModified(1511433345000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$$anonfun$computeValue$2.class -> lastModified(1511433345000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$.class -> lastModified(1511433344000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Signal.class -> lastModified(1511433345000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Times$.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Times.class -> lastModified(1511433884000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/TweetLength$$anonfun$1.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/TweetLength$$anonfun$calculator$TweetLength$$tweetLength$1.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/TweetLength$$anonfun$colorForRemainingCharsCount$1.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/TweetLength$.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/TweetLength.class -> lastModified(1511362122000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Var$.class -> lastModified(1511433345000)
+/home/ashylin/Downloads/calculator/web-ui/target/scala-2.11/classes/calculator/Var.class -> lastModified(1511433345000)
+source stamps:
+5 items
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> hash(74e171876f658facf2304bae1335dc3b70b0bf81)
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> hash(2fcddfdcb4095bc925e4c589a4761d91bc9c48b5)
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> hash(d16d665447d1ab8410b226698179e6c397e415b2)
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> hash(2d14cca8545e9a66ba76f2232839633b1ccafe33)
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> hash(48f24b8e7bafe1448bb37f51a125d6a71629b726)
+binary stamps:
+4 items
+/home/ashylin/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-dom_sjs0.6_2.11/0.8.0/scalajs-dom_sjs0.6_2.11-0.8.0.jar -> lastModified(1422870978000)
+/home/ashylin/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-library_2.11/0.6.11/scalajs-library_2.11-0.6.11.jar -> lastModified(1469547816000)
+/home/ashylin/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.6/scala-library-2.11.6.jar -> lastModified(1424912463000)
+/usr/lib/jvm/oracle_jdk8/jre/lib/rt.jar -> lastModified(1481589985000)
+class names:
+4 items
+/home/ashylin/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-dom_sjs0.6_2.11/0.8.0/scalajs-dom_sjs0.6_2.11-0.8.0.jar -> org.scalajs.dom.raw.Document
+/home/ashylin/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-library_2.11/0.6.11/scalajs-library_2.11-0.6.11.jar -> scala.scalajs.js.JSApp
+/home/ashylin/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.6/scala-library-2.11.6.jar -> scala.runtime.AbstractFunction2
+/usr/lib/jvm/oracle_jdk8/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+5 items
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBOryTTAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAALHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLZ2ElR0AA1jb21wdXRlVmFsdWVzc3EAfgAMOU4zbHQABm5vdGlmeXNxAH4ADBtJ0QJ0AARuYW1lc3EAfgAMtgS3dnQABHdhaXRzcQB+AAyknsqEdAAOY29weSRkZWZhdWx0JDJzcQB+AAyo0Gq8dAANJGFzSW5zdGFuY2VPZnNxAH4ADHA4H8N0AAxwcm9kdWN0QXJpdHlzcQB+AAzas7drdAAGZXF1YWxzc3EAfgAMvUyfn3QADGFzSW5zdGFuY2VPZnNxAH4ADBfuOBd0AARFeHByc3EAfgAM7UPdenQABkRpdmlkZXNxAH4ADEVs9BN0AAxzeW5jaHJvbml6ZWRzcQB+AAzT/0BzdAABYXNxAH4ADJnIAVp0AA0kaXNJbnN0YW5jZU9mc3EAfgAMJvJ72XQAB0xpdGVyYWxzcQB+AAzHPbQ7dAAIY2FuRXF1YWxzcQB+AAxdLz5/dAAEbWFpbnNxAH4ADNm6wgZ0AA1wcm9kdWN0UHJlZml4c3EAfgAMha4rsHQACW5vdGlmeUFsbHNxAH4ADE5+l510AARQbHVzc3EAfgAM540PKnQADGlzSW5zdGFuY2VPZnNxAH4ADNazIt90AARldmFsc3EAfgAMeQh+w3QABU1pbnVzc3EAfgAMJYJwkHQAAXZzcQB+AAz5UXjKdAAGPGluaXQ+c3EAfgAM+QKHxnQAAWJzcQB+AAwRF1grdAACPT1zcQB+AAxCAt7bdAAFY2xvbmVzcQB+AAzdfH/ZdAAQZ2V0UmVmZXJlbmNlRXhwcnNxAH4ADEg1KqV0AARjb3B5c3EAfgAMfuN2OXQACHRvU3RyaW5nc3EAfgAMYf7xRXQAAiE9c3EAfgAM8jgtK3QABVRpbWVzc3EAfgAMJKZ+V3QACGdldENsYXNzc3EAfgAM2bwL1HQADmNvcHkkZGVmYXVsdCQxc3EAfgAMIVBL43QAAm5lc3EAfgAMpGhhEXQAAmVxc3EAfgAMDv8QnXQACkNhbGN1bGF0b3JzcQB+AAx6/3pkdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAM3n1KknQAAiMjc3EAfgAMffevWXQACGZpbmFsaXplc3EAfgAM5R/Is3QAA1JlZnNxAH4ADHNXZQ50AA5wcm9kdWN0RWxlbWVudHNxAH4ADHCsIN10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAhzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AG94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAl0AA9jYWxjdWxhdG9yLkV4cHJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AhwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ab0wACWluaGVyaXRlZHEAfgBvTAAHcGFyZW50c3EAfgBveHEAfgCOc3EAfgCHAXVxAH4AagAAAABwc3EAfgCHAXVxAH4AagAAAABwc3EAfgCHAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHA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yABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgHIeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCCdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCbWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCNc3EAfgCadAAFQXJyYXlxAH4B0HVxAH4AmAAAAAFzcQB+AJp0AAZTdHJpbmdzcQB+AJ5zcQB+AKF1cQB+AKQAAAADc3EAfgCmcQB+AKlzcQB+AKZxAH4Aq3EAfgCtcHNxAH4AhwF1cQB+AGoAAAAAcHNxAH4AhwF1cQB+AJgAAAACc3EAfgCacQB+AJ1xAH4B6nNxAH4AmnEAfgCvcQB+AdBwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACmNhbGN1bGF0b3JzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV/oeqwOdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQy9ob21lL2FzaHlsaW4vRG93bmxvYWRzL2NhbGN1bGF0b3Ivd2ViLXVpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR04XGHb2WPrPIwS64TNdw7cLC/gQ==
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBmvcoLAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPHdxwp0AAZub3RpZnlzcQB+AAyPiLIadAAEd2FpdHNxAH4ADCGybFd0AA0kYXNJbnN0YW5jZU9mc3EAfgAMaa+zrHQABmVxdWFsc3NxAH4ADDF0Wz10AAxhc0luc3RhbmNlT2ZzcQB+AAz77txydAAMc3luY2hyb25pemVkc3EAfgAMom9zHHQADSRpc0luc3RhbmNlT2ZzcQB+AAzUbSSrdAAMY29tcHV0ZURlbHRhc3EAfgAMYHA20nQACW5vdGlmeUFsbHNxAH4ADGb+T9R0ABBjb21wdXRlU29sdXRpb25zc3EAfgAMNe0kdHQADGlzSW5zdGFuY2VPZnNxAH4ADMkr9lF0AAI9PXNxAH4ADHUkybt0AAVjbG9uZXNxAH4ADMEU3Al0AApQb2x5bm9taWFsc3EAfgAMf6/yF3QACHRvU3RyaW5nc3EAfgAMpFYPsHQAAiE9c3EAfgAM8uOjJnQACGdldENsYXNzc3EAfgAMwUqwf3QAAm5lc3EAfgAMyFsmJXQAAmVxc3EAfgAM7unh2nQAAiMjc3EAfgAMClux1XQACGZpbmFsaXplc3EAfgAMQk02KXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAFWNhbGN1bGF0b3IuUG9seW5vbWlhbHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AWwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBic3EAfgBbAXVxAH4APgAAAABwc3EAfgBbAXVxAH4APgAAAABwc3EAfgBbAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AenQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3NxAH4AbnQAA0FueXNxAH4AcnNxAH4AdXVxAH4AeAAAAAJzcQB+AHp0AAVzY2FsYXEAfgCBcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApjYWxjdWxhdG9yc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFf5EIqM3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEMvaG9tZS9hc2h5bGluL0Rvd25sb2Fkcy9jYWxjdWxhdG9yL3dlYi11aS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUL83f3LQJW8kl5MWJpHYdkbycSLU=
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCcrnOcAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMgm1u10AAlvYnNlcnZlcnNzcQB+AAwNwvZRdAAGbm90aWZ5c3EAfgAMJ20wkXQABHdhaXRzcQB+AAzXche6dAANJGFzSW5zdGFuY2VPZnNxAH4ADEkSKEl0AANWYXJzcQB+AAzYZGUgdAAGU2lnbmFsc3EAfgAMPZGWgHQABmVxdWFsc3NxAH4ADH9wuWp0AAxhc0luc3RhbmNlT2ZzcQB+AAySrf1cdAAMc3luY2hyb25pemVkc3EAfgAMfl2vW3QADSRpc0luc3RhbmNlT2ZzcQB+AAzXskNIdAAJbm90aWZ5QWxsc3EAfgAMiJsE43QADGlzSW5zdGFuY2VPZnNxAH4ADOPjrVR0AAhOb1NpZ25hbHNxAH4ADL0t7AN0AAY8aW5pdD5zcQB+AAx0QuKGdAAFYXBwbHlzcQB+AAwq2znudAACPT1zcQB+AAzcW5MndAAFY2xvbmVzcQB+AAyuIZRFdAAIdG9TdHJpbmdzcQB+AAygwr9edAACIT1zcQB+AAzCJgP9dAAMY29tcHV0ZVZhbHVlc3EAfgAMJxW6pXQACGdldENsYXNzc3EAfgAMolWCoHQABnVwZGF0ZXNxAH4ADMH9GTF0AAJuZXNxAH4ADKU5W790AAZteUV4cHJzcQB+AAyp3IITdAAHbXlWYWx1ZXNxAH4ADO355410AAJlcXNxAH4ADHj8BPZ0AAIjI3NxAH4ADLuXmDB0AAhmaW5hbGl6ZXNxAH4ADJp7oCh0AAZjYWxsZXJzcQB+AAwBJX6TdAAIaGFzaENvZGVzcQB+AAwWZUQkdAAIb2JzZXJ2ZWRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAFc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAARY2FsY3VsYXRvci5TaWduYWx1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcmdpVdvjcpBrAgAGWwALYW5ub3RhdGlvbnNxAH4AWkwAAmlkcQB+AA1MAApsb3dlckJvdW5kdAAQTHhzYnRpL2FwaS9UeXBlO1sADnR5cGVQYXJhbWV0ZXJzcQB+AFdMAAp1cHBlckJvdW5kcQB+AGhMAAh2YXJpYW5jZXQAFEx4c2J0aS9hcGkvVmFyaWFuY2U7eHB1cQB+AGAAAAAAdAATY2FsY3VsYXRvci5TaWduYWwuVHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdOb3RoaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBvc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB8dXEAfgBlAAAAAHNxAH4AbXQAA0FueXEAfgB1fnIAEnhzYnRpLmFwaS5WYXJpYW5jZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACUludmFyaWFudH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhxAH4AhXQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cQB+AG9wc3EAfgCNAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBVTAAJaW5oZXJpdGVkcQB+AFVMAAdwYXJlbnRzcQB+AFV4cQB+AHBzcQB+AI0BdXEAfgBQAAAAAHBzcQB+AI0BdXEAfgBQAAAAAHBzcQB+AI0BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcQB+AG10AAZPYmplY3RzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7dAAEamF2YXNxAH4Ae3QABGxhbmdxAH4AgHNxAH4AbXEAfgCDc3EAfgBzc3EAfgB2dXEAfgB5AAAAAnNxAH4Ae3EAfgB+cQB+AIBwcHNxAH4AUnEAfgBfdXEAfgBgAAAAAHNxAH4AYgB0AA5jYWxjdWxhdG9yLlZhcnVxAH4AZQAAAAFzcQB+AGd1cQB+AGAAAAAAdAAQY2FsY3VsYXRvci5WYXIuVHEAfgBxdXEAfgBlAAAAAHEAfgCCcQB+AIZxAH4AiXVxAH4AiwAAAABzcQB+AI0BcQB+AJNwc3EAfgCNAXNxAH4AlXNxAH4AjQF1cQB+AFAAAAAAcHNxAH4AjQF1cQB+AFAAAAAAcHNxAH4AjQF1cQB+AJwAAAADc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBuWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBvc3EAfgBtdAAGU2lnbmFsc3EAfgBzc3EAfgB2dXEAfgB5AAAAAnNxAH4Ae3QACmNhbGN1bGF0b3JxAH4AgHVxAH4AnAAAAAFzcgAWeHNidGkuYXBpLlBhcmFtZXRlclJlZj/Y4zkALHOwAgABTAACaWRxAH4ADXhxAH4Ab3QAEGNhbGN1bGF0b3IuVmFyLlRzcQB+AG1xAH4An3NxAH4Ac3NxAH4AdnVxAH4AeQAAAANzcQB+AHtxAH4ApHNxAH4Ae3EAfgCmcQB+AIBzcQB+AG1xAH4Ag3NxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHtxAH4AfnEAfgCAcHBzcQB+AFJxAH4AX3VxAH4AYAAAAABzcQB+AGIAdAAOY2FsY3VsYXRvci5WYXJ1cQB+AGUAAAAAfnEAfgCIdAAGTW9kdWxldXEAfgCLAAAAAHNxAH4AjQFxAH4Ak3BzcQB+AI0Bc3EAfgCVc3EAfgCNAXVxAH4AUAAAAABwc3EAfgCNAXVxAH4AUAAAAABwc3EAfgCNAXVxAH4AnAAAAAJzcQB+AG1xAH4An3NxAH4Ac3NxAH4AdnVxAH4AeQAAAANzcQB+AHtxAH4ApHNxAH4Ae3EAfgCmcQB+AIBzcQB+AG1xAH4Ag3NxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHtxAH4AfnEAfgCAcHBzcQB+AFJxAH4AX3VxAH4AYAAAAABzcQB+AGIAdAATY2FsY3VsYXRvci5Ob1NpZ25hbHVxAH4AZQAAAABxAH4A3XVxAH4AiwAAAABzcQB+AI0BcQB+AJNwc3EAfgCNAXNxAH4AlXNxAH4AjQF1cQB+AFAAAAAAcHNxAH4AjQF1cQB+AFAAAAAAcHNxAH4AjQF1cQB+AJwAAAADc3EAfgC/c3EAfgBtdAAGU2lnbmFsc3EAfgBzc3EAfgB2dXEAfgB5AAAAAnNxAH4Ae3QACmNhbGN1bGF0b3JxAH4AgHVxAH4AnAAAAAFzcQB+AG1xAH4AcnNxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHtxAH4AfnEAfgCAc3EAfgBtcQB+AJ9zcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7cQB+AKRzcQB+AHtxAH4ApnEAfgCAc3EAfgBtcQB+AINxAH4BDXBwc3EAfgBScQB+AF91cQB+AGAAAAAAc3EAfgBiAHQAEWNhbGN1bGF0b3IuU2lnbmFsdXEAfgBlAAAAAHEAfgDddXEAfgCLAAAAAHNxAH4AjQFxAH4Ak3BzcQB+AI0Bc3EAfgCVc3EAfgCNAXVxAH4AUAAAAABwc3EAfgCNAXVxAH4AUAAAAABwc3EAfgCNAXVxAH4AnAAAAAJzcQB+AG1xAH4An3NxAH4Ac3NxAH4AdnVxAH4AeQAAAANzcQB+AHtxAH4ApHNxAH4Ae3EAfgCmcQB+AIBzcQB+AG1xAH4Ag3NxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHtxAH4AfnEAfgCAcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApjYWxjdWxhdG9yc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFf6HKEc3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEMvaG9tZS9hc2h5bGluL0Rvd25sb2Fkcy9jYWxjdWxhdG9yL3dlYi11aS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU0W1mVEfRq4QQsiZpgXnmw5fkFbI=
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBSyflxAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cA8DT5F0AAZub3RpZnlzcQB+AAw36CLWdAAYdHdlZXRSZW1haW5pbmdDaGFyc0NvdW50c3EAfgAM1a3kwXQABHdhaXRzcQB+AAxdgwScdAANJGFzSW5zdGFuY2VPZnNxAH4ADFkburh0AAZlcXVhbHNzcQB+AAytaFxZdAAMYXNJbnN0YW5jZU9mc3EAfgAM3f93o3QAG2NvbG9yRm9yUmVtYWluaW5nQ2hhcnNDb3VudHNxAH4ADL4frMB0AAxzeW5jaHJvbml6ZWRzcQB+AAzJlZiHdAANJGlzSW5zdGFuY2VPZnNxAH4ADLHPOyp0AA5NYXhUd2VldExlbmd0aHNxAH4ADK6d1K50AAlub3RpZnlBbGxzcQB+AAweJIi7dAAMaXNJbnN0YW5jZU9mc3EAfgAMS2PSM3QAAj09c3EAfgAMUvHWCXQABWNsb25lc3EAfgAMUPlgdXQACHRvU3RyaW5nc3EAfgAMhoLzeHQAAiE9c3EAfgAME9cqH3QAC3R3ZWV0TGVuZ3Roc3EAfgAM/6oAanQACGdldENsYXNzc3EAfgAMc3grUXQAAm5lc3EAfgAMUmNoF3QAC1R3ZWV0TGVuZ3Roc3EAfgAM+ob0c3QAAmVxc3EAfgAMojAZlHQAAiMjc3EAfgAMvYw0D3QACGZpbmFsaXplc3EAfgAMX8mu+3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAFmNhbGN1bGF0b3IuVHdlZXRMZW5ndGh1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZnNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH50AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH9zcQB+AHJ0AANBbnlzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+dAAFc2NhbGFxAH4AhXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKY2FsY3VsYXRvcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX+Qzsuh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABDL2hvbWUvYXNoeWxpbi9Eb3dubG9hZHMvY2FsY3VsYXRvci93ZWItdWkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFC0UzKhUXppmunbyIyg5Yzscyv4z
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBf74T9AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJSW6lZ0AAZub3RpZnlzcQB+AAychWa8dAASZWxlbWVudFZhbHVlU2lnbmFsc3EAfgAMYTr6+3QACXBhcnNlRXhwcnNxAH4ADMJVWLR0ABdzZXR1cDJuZE9yZGVyUG9seW5vbWlhbHNxAH4ADELWSap0AAR3YWl0c3EAfgAMWHI9jXQADSRhc0luc3RhbmNlT2ZzcQB+AAy4U5qjdAAGZXF1YWxzc3EAfgAMvkEXPHQADGFzSW5zdGFuY2VPZnNxAH4ADBCS2J10AAxzeW5jaHJvbml6ZWRzcQB+AAzHQ/r5dAANJGlzSW5zdGFuY2VPZnNxAH4ADIHV9Ft0ABJkb3VibGVWYWx1ZU9mSW5wdXRzcQB+AAzXvsB+dAAEbWFpbnNxAH4ADDMh20p0AAlub3RpZnlBbGxzcQB+AAzcJIpLdAAMaXNJbnN0YW5jZU9mc3EAfgAMCY/3fnQAEnNldHVwVHdlZXRNZWFzdXJlcnNxAH4ADOYXZ5J0ABN0ZXh0QXJlYVZhbHVlU2lnbmFsc3EAfgAMgxl1PXQADENhbGN1bGF0b3JVSXNxAH4ADHrOkEZ0AAI9PXNxAH4ADJHPxjx0AAVjbG9uZXNxAH4ADN8nd2J0AA9zZXR1cENhbGN1bGF0b3JzcQB+AAyG/ri9dAALZXhwck9mSW5wdXRzcQB+AAzkgc6wdAAIdG9TdHJpbmdzcQB+AAwOBXURdAACIT1zcQB+AAyaZGAZdAAQaW5wdXRWYWx1ZVNpZ25hbHNxAH4ADK31QRt0AAhnZXRDbGFzc3NxAH4ADB2ENkN0AAtlbGVtZW50QnlJZHNxAH4ADDdtlt10ABNDbGVhckNzc0NsYXNzUmVnRXhwc3EAfgAMUA6LCnQAAm5lc3EAfgAMsqyKXXQAAmVxc3EAfgAM2bHIpHQAFiRqcyRleHBvcnRlZCRtZXRoJG1haW5zcQB+AAyFisyXdAACIyNzcQB+AAxyiSI4dAAIZmluYWxpemVzcQB+AAwhWNWDdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAXY2FsY3VsYXRvci5DYWxjdWxhdG9yVUl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AHEBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFlMAAlpbmhlcml0ZWRxAH4AWUwAB3BhcmVudHNxAH4AWXhxAH4AeHNxAH4AcQF1cQB+AFQAAAAAcHNxAH4AcQF1cQB+AFQAAAAAcHNxAH4AcQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHd0AAVKU0FwcHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ad3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcQB+AJB0AAdzY2FsYWpzc3EAfgCQdAACanNzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AkXNxAH4AhHQABk9iamVjdHNxAH4AiHNxAH4Ai3VxAH4AjgAAAANzcQB+AJB0AARqYXZhc3EAfgCQdAAEbGFuZ3EAfgCZc3EAfgCEdAADQW55c3EAfgCIc3EAfgCLdXEAfgCOAAAAAnNxAH4AkHEAfgCTcQB+AJlwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACmNhbGN1bGF0b3JzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV/kM7LodXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQy9ob21lL2FzaHlsaW4vRG93bmxvYWRzL2NhbGN1bGF0b3Ivd2ViLXVpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRI8kuOe6/hRIuzf1GhJdanFim3Jg==
+external apis:
+0 items
+source infos:
+5 items
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Calculator.scala -> 
+AAAAAAAAAAA=
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Polynomial.scala -> 
+AAAAAAAAAAA=
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/Signal.scala -> 
+AAAAAAAAAAA=
+/home/ashylin/Downloads/calculator/src/main/scala/calculator/TweetLength.scala -> 
+AAAAAAAAAAA=
+/home/ashylin/Downloads/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> 
+AAAAAAAAAAA=
+compilations:
+13 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX+PpVGF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL2FzaHlsaW4vRG93bmxvYWRzL2NhbGN1bGF0b3Ivd2ViLXVpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX+QSJ2p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL2FzaHlsaW4vRG93bmxvYWRzL2NhbGN1bGF0b3Ivd2ViLXVpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX+QUMyN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL2FzaHlsaW4vRG93bmxvYWRzL2NhbGN1bGF0b3Ivd2ViLXVpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX+QX/+R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL2FzaHlsaW4vRG93bmxvYWRzL2NhbGN1bGF0b3Ivd2ViLXVpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX+Qa44Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL2FzaHlsaW4vRG93bmxvYWRzL2NhbGN1bGF0b3Ivd2ViLXVpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX+Qzsuh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL2FzaHlsaW4vRG93bmxvYWRzL2NhbGN1bGF0b3Ivd2ViLXVpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX+RCKjN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL2FzaHlsaW4vRG93bmxvYWRzL2NhbGN1bGF0b3Ivd2ViLXVpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX+SLcON1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL2FzaHlsaW4vRG93bmxvYWRzL2NhbGN1bGF0b3Ivd2ViLXVpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX+hgaU11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL2FzaHlsaW4vRG93bmxvYWRzL2NhbGN1bGF0b3Ivd2ViLXVpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX+hnUL51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL2FzaHlsaW4vRG93bmxvYWRzL2NhbGN1bGF0b3Ivd2ViLXVpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX+hvLVZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL2FzaHlsaW4vRG93bmxvYWRzL2NhbGN1bGF0b3Ivd2ViLXVpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX+hyhHN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL2FzaHlsaW4vRG93bmxvYWRzL2NhbGN1bGF0b3Ivd2ViLXVpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX+h6rA51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9ob21lL2FzaHlsaW4vRG93bmxvYWRzL2NhbGN1bGF0b3Ivd2ViLXVpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
